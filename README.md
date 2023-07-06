@@ -8,15 +8,15 @@ From the TV show  "The Big Bang Theory".
 By default, the game lasts until 3 wins.
 
 
-- Scissors cuts Paper,
-- Paper wraps a Rock,
-- Rock crushes' Lizard,
-- the Lizard poisons Spock,
-- Spock breaks the Scissors,
-- the Scissors cut off the Lizard's head,
-- Lizard eats Paper,
-- Paper sets Spock up,
-- Spock vaporizes the Rock,
+- Scissors cuts Paper
+- Paper wraps a Rock
+- Rock crushes' Lizard
+- the Lizard poisons Spock
+- Spock breaks the Scissors
+- the Scissors cut off the Lizard's head
+- Lizard eats Paper
+- Paper sets Spock up
+- Spock vaporizes the Rock
 - Rock breaks Scissors
   <br><br>
   ![](https://github.com/AE563/-RPSSL-the-game/blob/main/static/images/rpsls_rule.jpg)
