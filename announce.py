@@ -8,7 +8,7 @@ fighter_list = {
     5: 'Lizard'
 }
 
-delay_before_displaying = 0.5
+delay_displaying = 0.5
 
 
 def announce_opponent(opponent):
@@ -24,10 +24,10 @@ def announce_opponent_made_choice(opponent):
     This function is used to announce that the opponent has made a choice
     :param opponent: the opponent selected by the computer
     """
-    sleep(delay_before_displaying)
+    sleep(delay_displaying)
     print(f'{opponent} made a choice...\n')
     print('________________________________')
-    sleep(delay_before_displaying)
+    sleep(delay_displaying)
 
 
 def announce_player_input():
@@ -52,7 +52,7 @@ def announce_round_winner(opponent, player_fighter, computer_fighter, winner):
 
     while countdown > 0:
         print(f'({countdown})')
-        sleep(delay_before_displaying)
+        sleep(delay_displaying)
         countdown -= 1
 
     if winner == 'draw':
@@ -65,7 +65,7 @@ def announce_round_winner(opponent, player_fighter, computer_fighter, winner):
         announce = f'{opponent} WON!'
 
     print(f'{opponent} chose:   {computer_fighter}\nThe player chose: {player_fighter} ')
-    sleep(delay_before_displaying)
+    sleep(delay_displaying)
     print(f'\n>>> {announce} <<<')
     print('________________________________')
 
