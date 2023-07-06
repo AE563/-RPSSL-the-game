@@ -4,7 +4,7 @@ From the TV show  "The Big Bang Theory".
 ## The rules of the game
 By default, the game lasts until 3 wins.
 
-<p> align="center">
+
 - Scissors cuts Paper,
 - Paper wraps a Rock,
 - Rock crushes' Lizard,
@@ -15,8 +15,8 @@ By default, the game lasts until 3 wins.
 - Paper sets Spock up,
 - Spock vaporizes the Rock,
 - Rock breaks Scissors
-  ![](/home/ae563/PycharmProjects/RPSSL/static/images/rpsls_rule.jpg)
-</p>
+  ![](https://github.com/AE563/-RPSSL-the-game/blob/main/static/images/rpsls_rule.jpg)
+
 At the beginning of each game, the computer randomly chooses one of several opponents.
 Some opponent may be encountered more often; they have different probabilities of appearing.
 Every opponent has his own list of preferences, strategies.
