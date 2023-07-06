@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors-Lizard-Spock the game
 From the TV show  "The Big Bang Theory".
+[web version](https://www.ae563.ru/rpsls-game/)
+<br>
 
 ### The rules of the game
 By default, the game lasts until 3 wins.
