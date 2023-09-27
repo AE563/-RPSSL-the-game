@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-Lizard-Spock the game
 From the TV show  "The Big Bang Theory".
 <br>
-[Web version](https://www.ae563.ru/rpsls-game/)
+[Web version](https://www.ae563.ru/rpsls/rpsls/)
 <br>
 
 ### The rules of the game
